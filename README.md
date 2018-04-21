@@ -27,14 +27,14 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Angular CLI - Commands
-ng new BucketList --style=scss --routing
-ng g c home
-ng g s data
-ng build
-ng build --prod
+* ng new BucketList --style=scss --routing
+* ng g c home
+* ng g s data
+* ng build
+* ng build --prod
 
 ## Git - Commands
-git add .
-git commit -m “Initial coding.”
-git remote add origin git@github.com:dderuiter/BucketList-ng5.git
-git push -u origin master
+* git add .
+* git commit -m “Initial coding.”
+* git remote add origin git@github.com:dderuiter/BucketList-ng5.git
+* git push -u origin master

@@ -32,7 +32,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * ng g s data
 * ng build
 * ng build --prod
-* ng build --prod --base-href="https://dderuiter.github.io/BucketList-ng5"
+* ng build --prod --base-href="/BucketList-ng5/"
 * angular-cli-ghpages
 
 ## Git - Commands
